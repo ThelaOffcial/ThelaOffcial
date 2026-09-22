@@ -1,30 +1,29 @@
+<!-- HEADER BANNER & TYPING SVG -->
 <div align="center">
 
-<!-- GLOWING ANIMATED TYPING HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:111827,100:0284C7&height=280&section=header&text=SAMITHU%20DINIL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20SaaS%20%26%20POS%20Engineer%20%7C%20Co-Founder%20%40%20Dual%20Syntax&descAlignY=62&descSize=20" width="100%" alt="Header Banner"/>
+
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Samithu+Dinil;Full-Stack+%26+Backend+Engineer+%F0%9F%92%BB;Co-Founder+%40+Dual+Syntax+%F0%9F%8F%AD;Building+Scalable+Architectures+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Architecting+Enterprise+SaaS+Platforms;%F0%9F%92%B3+Building+High-Performance+POS+%26+Retail+Engine;%F0%9F%8F%AD+Co-Founder+and+Lead+Tech+%40+Dual+Syntax;%F0%9F%8E%A8+Modern+UI%2FUX+Design+%26+Reactive+Interfaces;%F0%9F%92%80+Turning+Complex+Logic+Into+Effortless+Software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- CYBERPUNK / TECH ANIMATED BANNER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Header GIF"/>
-
----
-
-<!-- SOCIAL BADGES -->
+<!-- QUICK BADGES -->
 <p align="center">
-  <a href="https://github.com/ThelaOffcial" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://samithudinil.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&badgeColor=00F0FF"/>
   </a>
   <a href="https://dualsyntax.com" target="_blank">
-    <img src="https://img.shields.io/badge/Dual_Syntax-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Dual Syntax"/>
+    <img src="https://img.shields.io/badge/AGENCY-DUAL_SYNTAX-0F172A?style=for-the-badge&logo=codeforces&logoColor=00F0FF"/>
+  </a>
+  <a href="https://github.com/ThelaOffcial" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-THELAOFFCIAL-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/yourwhatsappnumber" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/HIRE_ME-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -32,15 +31,8 @@
 
 ---
 
-### 🚀 About Me
+### 🖥️ TERMINAL SYSTEM DIAGNOSTIC
 
-```javascript
-const samithuDinil = {
-  role: "Full-Stack & Backend Engineer",
-  location: "Sri Lanka 🇱🇰",
-  company: "Co-Founder @ Dual Syntax (Est. 2026)",
-  focus: ["Backend Systems", "Scalable Architecture", "Database Engineering", "API Development"],
-  stack: ["React", "Node.js", "Python", "PHP", "PostgreSQL", "MongoDB", "Firebase"],
-  education: "Advanced Diploma in ICT (ILT Campus)",
-  passion: "Writing clean, robust code and building digital products that scale globally."
-};
+```bash
+  ┌──(samithu@dualsyntax-core)-[~]
+  └─$ neofetch --profile
